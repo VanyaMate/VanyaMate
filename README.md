@@ -1,4 +1,4 @@
-<h1 align="center">Йоу май нейм ис Ваня :)</h1>
+<h1 align="center">Йоу май нейм ис Ваня :) #NOWAR</h1>
 <h3 align="center">Web developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vanyamate&label=Profile%20views&color=0e75b6&style=flat" alt="vanyamate" /> </p>
