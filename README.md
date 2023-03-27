@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vanyamate&label=Profile%20views&color=0e75b6&style=flat" alt="vanyamate" /> </p>
 
-- 🔭 Сейчас разрабатываю сайт погоды [weather-app](https://vm-weather.web.app/)
-
 <h3 align="left">Связь:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/vanyamate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vanyamate" height="30" width="40" /> VanyaMate </a>
