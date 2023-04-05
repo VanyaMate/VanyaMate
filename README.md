@@ -14,8 +14,4 @@
 
 # GitHub статистика:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanyamate&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="vanyamate" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanyamate&show_icons=true&locale=en&theme=dark&hide_border=true" alt="vanyamate" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanyamate&theme=dark&hide_border=true" alt="vanyamate" /></p>
