@@ -5,6 +5,6 @@
 
 <h3 align="left">Связь:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/vanyamate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vanyamate" height="30" width="40" /> VanyaMate </a>
+<a href="https://t.me/VanyaMate" target="blank">TG: @VanyaMate</a>
 <a href="https://discord.gg/5thColumn#2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5thColumn#2102" height="30" width="40" /> 5thColumn#2102 </a>
 </p>
