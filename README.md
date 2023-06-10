@@ -6,5 +6,5 @@
 <h3 align="left">Связь:</h3>
 <p align="left">
 <a href="https://t.me/VanyaMate" target="blank">TG: @VanyaMate</a>
-<a href="https://discord.gg/5thColumn#2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5thColumn#2102" height="30" width="40" /> 5thColumn#2102 </a>
+<a href="https://discord.com/users/257910472769011712" target="blank">DS: vanyamate</a>
 </p>
