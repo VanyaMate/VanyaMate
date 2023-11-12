@@ -1,5 +1,8 @@
-<h1 align="center">Использую светлую тему и что ты мне сделаешь? #nowar</h1>
+<h1 align="center">class Vanya implements Developer<TypeScript></h1>
 <h3 align="center">Web developer</h3>
+
+<p>JavaScript, TypeScript, React, Nest</p>
+<p>C#, Unity</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vanyamate&label=Profile%20views&color=0e75b6&style=flat" alt="vanyamate" /> </p>
 
