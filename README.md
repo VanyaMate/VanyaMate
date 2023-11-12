@@ -1,4 +1,4 @@
-<h1 align="center">class Me implements Developer<TypeScript></h1>
+<h1 align="center">class Me implements Developer</h1>
 <h3 align="center">Web developer</h3>
 
 <p>JavaScript, TypeScript, React, Nest</p>
