@@ -1,5 +1,5 @@
 <h1 align="center">class Me implements Developer</h1>
-<h3 align="center">Web developer</h3>
+<h3 align="center">Indie web developer</h3>
 
 <p>JavaScript, TypeScript, React, Nest</p>
 <p>C#, Unity</p>
