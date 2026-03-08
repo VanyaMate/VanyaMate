@@ -1,8 +1,8 @@
-<h1 align="center">class Me implements Developer</h1>
-<h3 align="center">Indie web developer</h3>
+<h1 align="center">class Me implements IndieDeveloper</h1>
+<p align="center">Текущее направление: <strong>GameDev</strong></p>
 
-<p>JavaScript, TypeScript, React, Nest</p>
-<p>C#, Unity</p>
+<h2>Языки</h2>
+<p>JavaScript, TypeScript, C#</p>
 
 <h3 align="left">Связь:</h3>
 <p align="left">
